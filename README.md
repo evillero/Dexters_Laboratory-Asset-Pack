@@ -3,6 +3,8 @@
 
 
 ![passport](https://github.com/user-attachments/assets/85a74587-e9b9-4256-aa01-341d25aae5bf)
+![Screenshot-20240920-034914](https://github.com/user-attachments/assets/47a00a83-593a-4e84-8ef7-a7a7c1f44b35)
+![Screenshot-20240920-034722](https://github.com/user-attachments/assets/3a2b8b2a-fd03-4a66-9768-bc4dde1ba7ae)
 ![Screenshot-20240920-033829](https://github.com/user-attachments/assets/61a70b4b-87f0-4639-937a-2c9efd877788)
 ![Screenshot-20240920-022821](https://github.com/user-attachments/assets/b6025e33-8b5b-4144-859b-46fb5e9983a7)
 ![Screenshot-20240920-020028](https://github.com/user-attachments/assets/9f257384-5743-49c5-afc8-6eac858ceea4)
