@@ -2,7 +2,10 @@
  Dexters Laboratory Asset Pack for Flipper Zero
 
 
-![dee_dee](https://github.com/user-attachments/assets/ac9dd532-c273-4000-9209-7fd383af9d00)
+![passport](https://github.com/user-attachments/assets/85a74587-e9b9-4256-aa01-341d25aae5bf)
+![Screenshot-20240920-015934](https://github.com/user-attachments/assets/795ed9df-b283-466c-a2da-9e37d74d95f4)
+![Screenshot-20240920-020028](https://github.com/user-attachments/assets/9f257384-5743-49c5-afc8-6eac858ceea4)
+![Screenshot-20240920-020138](https://github.com/user-attachments/assets/58386458-8f42-450d-a1a9-a63c948e3b8f)
 ![dee-dee_monstr](https://github.com/user-attachments/assets/a2661a20-8d2f-4be4-9fb6-319dafc023ab)
 ![dex_dee](https://github.com/user-attachments/assets/15b98413-4cb5-436c-a94a-b5c2dddd6730)
 ![dexsunglass](https://github.com/user-attachments/assets/2a6b9e0b-ff76-4e67-9370-65895bd3330a)
