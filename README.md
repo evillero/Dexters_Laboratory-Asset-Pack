@@ -18,6 +18,6 @@
 ![dexter_robot](https://github.com/user-attachments/assets/4ffd5723-f175-4eab-bdfe-2705eed7d283)
 ![dexter_scfi](https://github.com/user-attachments/assets/5ddd2c61-405b-499f-8094-d5827514dae5)
 ![dexters_logo](https://github.com/user-attachments/assets/e9f5990c-ee3e-4e37-ac46-290773a5cf57)
-![monkey_chill](https://github.com/user-attachments/assets/35632dea-1d10-40d0-82b5-83ea5caad410)
+![dexter](https://github.com/user-attachments/assets/07cb8452-6847-47f5-a81f-94d70eade465)
 ![walking](https://github.com/user-attachments/assets/39f2105f-7175-4afe-85a6-24aef5de1673)
 ![whatanicepng](https://github.com/user-attachments/assets/ad488734-d738-4ad3-ae43-1abaa886bedf)
